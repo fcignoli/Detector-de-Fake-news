@@ -1,8 +1,7 @@
 # Detector-de-Fake-news
 
-Un programita para detectar fake news mediante un dataset de Internet. El código funciona solamente en ingles.
-
-Vamos a usar la función TfidfVectorizer de sklearn
+Un programita para detectar fake news mediante un dataset de Internet. El código funciona solamente en ingles, ya que es un ejercicio que encontre en internet.
+A continuación copio la info de la consigna:
 
 What is a TfidfVectorizer?
 TF (Term Frequency): The number of times a word appears in a document is its Term Frequency. A higher value means a term appears more often than others, and so, the document is a good match when the term is part of the search terms.
